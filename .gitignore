@@ -1,0 +1,9 @@
+node_modules/
+.pnpm-store/
+*.log
+.next/
+.env
+*.tgz
+yarn-error.log*
+.env.local
+coverage/
